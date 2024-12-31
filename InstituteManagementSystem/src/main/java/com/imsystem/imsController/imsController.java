@@ -14,10 +14,7 @@ import com.imsystem.servicei.Imsservicei;
 @Controller
 public class imsController {
 
-	public void m1()
-	{
-		
-	}
+	
 	
 	@Autowired
 	Imsservicei ssi;
